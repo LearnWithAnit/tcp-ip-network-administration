@@ -3,6 +3,21 @@
 > https://www.cs.ait.ac.th/~on/O/oreilly/tcpip/tcpip/index.htm
 
 
+### Overview
+
+*Concentrate on what a system administrator really needs to know about TCP/IP administration*
+
+This book addresses the lack of information by providing practical, detailed network information for the UNIX system administrator.
+
+The common thread that ties the enormous Internet together is TCP/IP network software. TCP/IP is a set of communications protocols that define how different types of computers talk to each other. This is a book about building your own network based on TCP/IP. It is both a tutorial covering the "why" and "how" of TCP/IP networking, and a reference manual for the details about specific network programs.
+
+> Summary of book 
+  - The Domain Name Service material has been updated to cover the latest version of the BIND 4 software. 
+  - The email configuration is now based on sendmail version 8, and the operating system examples are from the current versions of Solaris and Linux. 
+  - The routing protocol coverage has been expanded to include Open Shortest Path First (OSPF) and Border Gateway Protocol (BGP). 
+   - One-time passwords and configuration servers based on Dynamic Host Configuration Protocol (DHCP) and Bootstrap Protocol (BOOTP).
+   
+   
 ### Course Content
 > Chapter 1: Overview of TCP/IP
 > Chapter 2: Delivering the Data
